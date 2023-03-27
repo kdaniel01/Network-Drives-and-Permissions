@@ -1,4 +1,4 @@
-<img src="https://i.imgur.com/IJn3nj0.jpg" height="80%" width="80%" alt="Disk Sanitization Steps"/>
+<img src="https://i.imgur.com/yJVkMdW.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
 <br />
 
 
