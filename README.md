@@ -4,7 +4,7 @@
 
 <h2>Description</h2>
 
-<b>In this project,I created a lab environment using Windows Server 2022 to set up and configure a fully functioning Active Directory Domain Services as well as a DNS and DHCP server.
+<b>In this project,I created network shared drive and folders in which I granted access according to the user's role.
 </b>
 
 
