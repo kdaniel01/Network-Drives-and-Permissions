@@ -17,7 +17,7 @@
 
 
 <h2>Overview </h2>
-- <b>Part 1- Creating 2 Groups with 2 users each in Active Directory Users and Computers<br />
+- <b>Part 1- Creating 2 Groups with 2 users each in Active Directory<br />
 - <b>Part 2- Creating Network shared drive and folders<br />
 - <b>Part 3- Adding home folder for users and then testing access<br />
  
